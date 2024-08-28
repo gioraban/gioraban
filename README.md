@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hello, My name is Georgina Khamisso 👋
 
-<!--
-**gioraban/gioraban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am a QA Engineer. 
 
-Here are some ideas to get you started:
+## SKILLS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=f5f5f5
+- https://img.shields.io/badge/%F0%9F%90%8D-python-smeral
+- ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+&nbsp
+- ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+&nbsp
+
+
+
+## FIND ME AT 
+- https://img.shields.io/badge/in-georgina%20khamisso-green
+
+## CONTACT ME
+- https://img.shields.io/badge/%F0%9F%93%A7-gkhamisso%40gmail.com-smeral
+
+
+
