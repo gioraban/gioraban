@@ -8,7 +8,7 @@
  </p>
   <h3> QA Engineer || Software testing || Android </h3>
 
-  
+I am deeply committed to self-improvement and strive to become a leading expert in automation QA. I particularly shine with JavaScript, Python, and Selenium, and I am currently expanding my skills in artificial intelligence (AI). My passion for mastering the latest technologies and methodologies drives me to continuously enhance my abilities and deliver exceptional results.
 
 
 
